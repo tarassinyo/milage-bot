@@ -9,7 +9,7 @@ from telegram.ext import Application, CommandHandler, CallbackContext
 # Set your specific lease information here
 LEASE_START_DATE = datetime.date(2025, 4, 4)
 LEASE_MONTHS = 36
-TOTAL_MILES = 30000
+TOTAL_MILES = 30300
 # ---------------------
 
 # Enable logging
